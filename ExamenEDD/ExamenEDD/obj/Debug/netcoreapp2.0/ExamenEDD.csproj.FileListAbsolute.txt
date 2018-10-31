@@ -1,0 +1,11 @@
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.csprojResolveAssemblyReference.cache
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.csproj.CoreCompileInputs.cache
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.AssemblyInfoInputs.cache
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.AssemblyInfo.cs
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/bin/Debug/netcoreapp2.0/ExamenEDD.deps.json
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/bin/Debug/netcoreapp2.0/ExamenEDD.runtimeconfig.json
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/bin/Debug/netcoreapp2.0/ExamenEDD.runtimeconfig.dev.json
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/bin/Debug/netcoreapp2.0/ExamenEDD.dll
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/bin/Debug/netcoreapp2.0/ExamenEDD.pdb
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.dll
+/Users/osmarenrique/Projects/ExamenEDD/ExamenEDD/obj/Debug/netcoreapp2.0/ExamenEDD.pdb
